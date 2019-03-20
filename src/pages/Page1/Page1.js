@@ -8,7 +8,7 @@ export default class Page1 extends Component {
     render() {
         return (
             <div className={style.box}>
-                this is page1~
+                这里是首页
                 <img src={image}/>
             </div>
         )
